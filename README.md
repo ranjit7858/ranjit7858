@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ranjit
-- 👀 I’m interested in competetive programming and web development
+- 👀 I’m interested in competitive programming and web development
 - 🌱 I’m currently learning new tech stack
 
 <!---
