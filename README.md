@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjit
-- 👀 I’m interested in competitive programming and web development
-- 🌱 I’m currently learning new tech stack
+- 👀
+- 🌱
 
 <!---
 ranjit7858/ranjit7858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
